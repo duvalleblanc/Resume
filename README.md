@@ -18,6 +18,8 @@ It appears that from MadebyBPS description that there will be a Visitor Count th
 built in with .NET and Azure Functions. This will give me good exposure to .NET and Azure Functions 
 with the Cloud
 
-12/14
+Front End - Website
+BackEnd - API/Azure Functions
 
-I'm going to start downloading the Docker and DevContainers for VS and begin there. 
+Notion Notes Documentation
+https://dleblancnotes.notion.site/Azure-Resume-Project-304988d911f947f1a69726ff9960c3bf?pvs=4
