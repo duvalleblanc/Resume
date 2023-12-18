@@ -18,7 +18,7 @@ It appears that from MadebyBPS description that there will be a Visitor Count th
 built in with .NET and Azure Functions. This will give me good exposure to .NET and Azure Functions 
 with the Cloud
 
-Front End - Website
+Front End - Website | 
 BackEnd - API/Azure Functions
 
 Notion Notes Documentation
