@@ -1,4 +1,4 @@
-// Counter Creation 
+// Counter Creation Code
 
 
 // When the Content is Loaded, Run the event getVisitCount
