@@ -1,5 +1,5 @@
 # Resume
-My Azure Resume Project - Started 12/11
+My Azure Resume Project - Duval Le Blanc
 This will be a Cloud Resume Challenge that was designed on Azure. 
 The Idea is From MadebyGPS's Azure Resume Project
 
