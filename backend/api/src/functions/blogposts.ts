@@ -4,7 +4,7 @@ import { app, HttpRequest, HttpResponseInit, InvocationContext } from "@azure/fu
 export async function getBlogPosts(request: HttpRequest, context: InvocationContext): Promise<HttpResponseInit> {
     context.log(`Http function getBlogPosts processed request for url "${request.url}"`);
 
-    // Empty array for now ... will fix later
+    // Empty array for now ... will fix later in the code
     const blogposts = [];
 
     return {
