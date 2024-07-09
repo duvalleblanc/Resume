@@ -1,4 +1,4 @@
-# Resume
+# Azure Cloud Website
 My Azure Resume Project - Duval Le Blanc. 
 This will be a Cloud Resume Challenge that was designed on Azure. 
 The Idea is From MadebyGPS's Azure Resume Project. I removed a lot of the backend API side and stripped it down to just be a static site
