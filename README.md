@@ -1,4 +1,5 @@
-# Azure Cloud Static Webpage
+# RESUME - Azure Cloud Static Webpage
+LINK TO RESUME >>> https://dleblancstorage.z13.web.core.windows.net/#about
 This is a static webpage that is completely contained within Azure Blog Storage.
 
 The Idea is From MadebyGPS's Azure Resume Project. I removed a lot of the backend API side and stripped it down to just be a static site
