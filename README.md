@@ -1,4 +1,4 @@
-# The Website will be coded in the frontend
+Resume is Built with HTML, CSS, & Javascript.
+Template used from Cee Vee and customized for myself.
 
-#Duval Le Blanc - Azure Resume Project - 12/17/2023
-
+Duval Le Blanc 08/18/2024
