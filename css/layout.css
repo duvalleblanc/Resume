@@ -285,13 +285,42 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
-.HTMLlogo {
+.HTMLLogo {
 
-   border: 1px solid #ddd;
-   border-radius: 4px;
+   height: 100px;
    padding: 5px;
-   width: 150px;
+   width: 100px;
 
+}
+
+.CSSLogo {
+
+   height: 100px;
+   padding: 5px;
+   width: 100px;
+
+}
+
+.JavascriptLogo {
+
+   height: 100px;
+   padding: 5px;
+   width: 100px;
+
+}
+
+.ReactLogo {
+
+   height: 100px;
+   padding: 5px;
+   width: 100px;
+}
+
+.NodeLogo {
+
+   height: 100px;
+   padding: 5px;
+   width: 100px;
 }
 
 .bars {
