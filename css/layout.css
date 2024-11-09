@@ -331,6 +331,14 @@ ul#nav li.current a { color: #F06000; }
 
 }
 
+.ODINLogo {
+
+   height: 120px;
+   padding: 5px;
+   width: 120px;
+
+}
+
 .bars {
 	width: 95%;
 	float: left;
