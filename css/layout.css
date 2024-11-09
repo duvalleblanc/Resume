@@ -323,6 +323,14 @@ ul#nav li.current a { color: #F06000; }
    width: 100px;
 }
 
+.SQLlogo {
+
+   height: 100px;
+   padding: 5px;
+   width: 90px;
+
+}
+
 .bars {
 	width: 95%;
 	float: left;
