@@ -285,6 +285,15 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
+.HTMLlogo {
+
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   width: 150px;
+
+}
+
 .bars {
 	width: 95%;
 	float: left;
